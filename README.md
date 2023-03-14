@@ -1,0 +1,2 @@
+# analisis-sentimen-review-movie-lstm
+ANALISIS SENTIMEN PADA REVIEW ROTTEN TOMATOES MENGGUNAKAN LSTM
